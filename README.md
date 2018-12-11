@@ -1,1 +1,1 @@
-# the_way_to_go_exercise_record
+# the-way-to-go-exercise-record
